@@ -12,7 +12,7 @@ http://sandsoftwaresound.net/rpi-soft-synth-get-started/
 
 First goal (1-2 weeks):
 Read MIDI input from keyboard into raspberry pi via USB
-Use amsynth module in python to convert MIDI input to audio output
+Use FluidSynth module in python to convert MIDI input to audio output
 
 
 First semester goal:
