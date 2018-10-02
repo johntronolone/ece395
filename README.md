@@ -15,5 +15,7 @@ Read MIDI input from keyboard into raspberry pi via USB
 Use amsynth module in python to convert MIDI input to audio output
 
 
+First semester goal:
+Have JT's neurnet synth running on raspberry pi, accepting midi input from keyboard and outputing analog audio. Build hardware box with dials for adjustments to JT's neurnet synth software. Build hardware keyboard for generating microtonal MIDI input.
 
 
