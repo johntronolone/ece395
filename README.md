@@ -9,6 +9,10 @@ http://andrewdotni.ch/blog/2015/02/28/midi-synth-with-raspberry-p/
 Raspberry Pi soft synthesizer
 http://sandsoftwaresound.net/rpi-soft-synth-get-started/
 
+MIDI slideshow info
+http://www.musicandengineering.com/lectures/2017/06_midi_v17.pdf
+
+
 
 First goal (1-2 weeks):
 Read MIDI input from keyboard into raspberry pi via USB
