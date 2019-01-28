@@ -29,6 +29,7 @@ TODO:
 2. include __main__() thing or some sort of correct initilization
 3. implement multiprocessing
 4. get fader working as cutoff freq
+    a. cutoff freq should range from 300-1000 Hz
 
 More TODO:
 1. do more research on lowpass filter
