@@ -1,0 +1,12 @@
+//+ Name: Unnamed sound bank
+//+ Date: 2019-02-26
+
+<global>
+ //+ Instrument: Unnamed instrument
+ ampeg_release=0.5
+
+<group>
+ loop_mode=loop_continuous
+<region>
+ pitch_keycenter=60
+ sample=60.wav

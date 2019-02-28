@@ -1,0 +1,2965 @@
+9
+test accuracy 0.103295
+19
+test accuracy 0.0905482
+29
+test accuracy 0.0875904
+39
+test accuracy 0.092334
+49
+test accuracy 0.0865354
+59
+test accuracy 0.0864026
+69
+test accuracy 0.0815952
+79
+test accuracy 0.0807215
+89
+test accuracy 0.0824748
+99
+test accuracy 0.082599
+109
+test accuracy 0.0802237
+119
+test accuracy 0.0815094
+129
+test accuracy 0.0807525
+139
+test accuracy 0.0815341
+149
+test accuracy 0.0802864
+159
+test accuracy 0.0803368
+169
+test accuracy 0.0808971
+179
+test accuracy 0.081702
+189
+test accuracy 0.0813299
+199
+test accuracy 0.081942
+209
+test accuracy 0.0805921
+219
+test accuracy 0.0812041
+229
+test accuracy 0.0823406
+239
+test accuracy 0.0797437
+249
+test accuracy 0.0806138
+259
+test accuracy 0.0805136
+269
+test accuracy 0.0818964
+279
+test accuracy 0.0794941
+289
+test accuracy 0.0810663
+299
+test accuracy 0.0803507
+299
+validation accuracy 0.153991
+0
+validation accuracy 0.156478
+
+9
+test accuracy 0.241456
+19
+test accuracy 0.213501
+29
+test accuracy 0.190666
+39
+test accuracy 0.182038
+49
+test accuracy 0.184009
+59
+test accuracy 0.180981
+69
+test accuracy 0.170987
+79
+test accuracy 0.169608
+89
+test accuracy 0.170698
+99
+test accuracy 0.169854
+99
+validation accuracy 0.205077
+9
+test accuracy 0.163336
+19
+test accuracy 0.162482
+29
+test accuracy 0.162267
+39
+test accuracy 0.165231
+49
+test accuracy 0.161712
+59
+test accuracy 0.160333
+69
+test accuracy 0.159553
+79
+test accuracy 0.158791
+89
+test accuracy 0.15936
+99
+test accuracy 0.160833
+99
+validation accuracy 0.187667
+2
+test accuracy 0.782368
+5
+test accuracy 0.721445
+8
+test accuracy 0.72879
+11
+test accuracy 0.728952
+14
+test accuracy 0.732194
+17
+test accuracy 0.728094
+20
+test accuracy 0.72719
+23
+test accuracy 0.725095
+2
+test accuracy 0.653806
+5
+test accuracy 0.604906
+8
+test accuracy 0.585925
+11
+test accuracy 0.562669
+14
+test accuracy 0.548704
+17
+test accuracy 0.544815
+20
+test accuracy 0.544904
+23
+test accuracy 0.534474
+26
+test accuracy 0.530348
+29
+test accuracy 0.533259
+32
+test accuracy 0.525223
+35
+test accuracy 0.524109
+38
+test accuracy 0.517245
+41
+test accuracy 0.523439
+44
+test accuracy 0.52895
+47
+test accuracy 0.538392
+50
+test accuracy 0.520476
+53
+test accuracy 0.52687
+56
+test accuracy 0.526835
+59
+test accuracy 0.529125
+62
+test accuracy 0.535582
+65
+test accuracy 0.524561
+68
+test accuracy 0.531472
+71
+test accuracy 0.530116
+74
+test accuracy 0.538766
+77
+test accuracy 0.540767
+80
+test accuracy 0.547685
+83
+test accuracy 0.537345
+86
+test accuracy 0.533878
+89
+test accuracy 0.532295
+92
+test accuracy 0.536852
+95
+test accuracy 0.535493
+98
+test accuracy 0.53951
+101
+test accuracy 0.531934
+104
+test accuracy 0.53855
+107
+test accuracy 0.532811
+110
+test accuracy 0.527664
+113
+test accuracy 0.530212
+116
+test accuracy 0.52045
+119
+test accuracy 0.520842
+122
+test accuracy 0.520752
+125
+test accuracy 0.516444
+128
+test accuracy 0.511065
+131
+test accuracy 0.518437
+134
+test accuracy 0.520139
+137
+test accuracy 0.519735
+140
+test accuracy 0.517662
+143
+test accuracy 0.510793
+146
+test accuracy 0.511058
+149
+test accuracy 0.518297
+152
+test accuracy 0.537663
+155
+test accuracy 0.51246
+158
+test accuracy 0.513438
+161
+test accuracy 0.515088
+164
+test accuracy 0.511455
+167
+test accuracy 0.514434
+170
+test accuracy 0.515358
+173
+test accuracy 0.516032
+176
+test accuracy 0.515268
+179
+test accuracy 0.520687
+182
+test accuracy 0.519744
+185
+test accuracy 0.518352
+188
+test accuracy 0.517769
+191
+test accuracy 0.522463
+194
+test accuracy 0.516324
+197
+test accuracy 0.520801
+200
+test accuracy 0.51939
+203
+test accuracy 0.520724
+206
+test accuracy 0.520677
+209
+test accuracy 0.516241
+212
+test accuracy 0.533033
+215
+test accuracy 0.520509
+2
+test accuracy 0.625558
+5
+test accuracy 0.591226
+8
+test accuracy 0.576493
+11
+test accuracy 0.55376
+14
+test accuracy 0.548719
+17
+test accuracy 0.545308
+20
+test accuracy 0.541341
+23
+test accuracy 0.539493
+26
+test accuracy 0.537704
+29
+test accuracy 0.539093
+32
+test accuracy 0.532815
+35
+test accuracy 0.534186
+38
+test accuracy 0.537156
+41
+test accuracy 0.535286
+44
+test accuracy 0.538562
+47
+test accuracy 0.538403
+50
+test accuracy 0.538479
+53
+test accuracy 0.539353
+56
+test accuracy 0.537736
+59
+test accuracy 0.536344
+62
+test accuracy 0.540577
+65
+test accuracy 0.539399
+68
+test accuracy 0.543208
+71
+test accuracy 0.541269
+74
+test accuracy 0.541934
+77
+test accuracy 0.544035
+80
+test accuracy 0.543559
+83
+test accuracy 0.542694
+86
+test accuracy 0.543684
+89
+test accuracy 0.545752
+2
+test accuracy 0.545478
+5
+test accuracy 0.547047
+8
+test accuracy 0.544933
+11
+test accuracy 0.546733
+14
+test accuracy 0.546543
+17
+test accuracy 0.54873
+20
+test accuracy 0.548656
+23
+test accuracy 0.547887
+26
+test accuracy 0.550911
+29
+test accuracy 0.553358
+32
+test accuracy 0.553098
+35
+test accuracy 0.5502
+2
+test accuracy 0.695158
+5
+test accuracy 0.626836
+8
+test accuracy 0.602251
+11
+test accuracy 0.588104
+14
+test accuracy 0.573512
+17
+test accuracy 0.564163
+20
+test accuracy 0.560953
+23
+test accuracy 0.545946
+26
+test accuracy 0.537397
+29
+test accuracy 0.533228
+32
+test accuracy 0.531517
+35
+test accuracy 0.528066
+38
+test accuracy 0.522495
+41
+test accuracy 0.520474
+44
+test accuracy 0.5205
+47
+test accuracy 0.519251
+50
+test accuracy 0.51636
+53
+test accuracy 0.517971
+56
+test accuracy 0.516261
+59
+test accuracy 0.514498
+62
+test accuracy 0.509711
+65
+test accuracy 0.514142
+2
+test accuracy 0.511009
+5
+test accuracy 0.512912
+8
+test accuracy 0.512439
+11
+test accuracy 0.512211
+14
+test accuracy 0.51504
+17
+test accuracy 0.509508
+20
+test accuracy 0.515656
+23
+test accuracy 0.518201
+26
+test accuracy 0.513231
+29
+test accuracy 0.514684
+32
+test accuracy 0.51989
+35
+test accuracy 0.514332
+38
+test accuracy 0.516816
+41
+test accuracy 0.518269
+44
+test accuracy 0.517705
+47
+test accuracy 0.516136
+50
+test accuracy 0.521427
+53
+test accuracy 0.519184
+56
+test accuracy 0.521913
+59
+test accuracy 0.523644
+2
+test accuracy 0.583268
+5
+test accuracy 0.560399
+8
+test accuracy 0.545529
+11
+test accuracy 0.544357
+14
+test accuracy 0.546722
+17
+test accuracy 0.546375
+20
+test accuracy 0.545602
+23
+test accuracy 0.547752
+26
+test accuracy 0.538233
+29
+test accuracy 0.542503
+32
+test accuracy 0.531583
+35
+test accuracy 0.531083
+38
+test accuracy 0.529089
+41
+test accuracy 0.532503
+44
+test accuracy 0.531088
+47
+test accuracy 0.533145
+50
+test accuracy 0.529368
+53
+test accuracy 0.529104
+56
+test accuracy 0.532017
+59
+test accuracy 0.524432
+62
+test accuracy 0.528126
+65
+test accuracy 0.544607
+68
+test accuracy 0.510247
+71
+test accuracy 0.510136
+74
+test accuracy 0.523135
+77
+test accuracy 0.52057
+80
+test accuracy 0.506903
+83
+test accuracy 0.505698
+86
+test accuracy 0.508193
+89
+test accuracy 0.503491
+92
+test accuracy 0.50304
+95
+test accuracy 0.50818
+98
+test accuracy 0.500764
+101
+test accuracy 0.505591
+104
+test accuracy 0.50774
+107
+test accuracy 0.506306
+110
+test accuracy 0.506325
+113
+test accuracy 0.50808
+116
+test accuracy 0.513212
+119
+test accuracy 0.514625
+122
+test accuracy 0.511648
+125
+test accuracy 0.5014
+128
+test accuracy 0.508203
+131
+test accuracy 0.495608
+134
+test accuracy 0.503411
+2
+test accuracy 0.361885
+2
+test accuracy 0.999979
+5
+test accuracy 0.999937
+8
+test accuracy 0.87531
+11
+test accuracy 0.877545
+14
+test accuracy 0.877905
+17
+test accuracy 0.879707
+20
+test accuracy 0.877299
+23
+test accuracy 0.85404
+26
+test accuracy 0.855894
+29
+test accuracy 0.853666
+32
+test accuracy 0.852353
+35
+test accuracy 0.765695
+38
+test accuracy 0.735539
+41
+test accuracy 0.733905
+44
+test accuracy 0.688136
+47
+test accuracy 0.672145
+50
+test accuracy 0.670156
+53
+test accuracy 0.665508
+2
+test accuracy 0.401024
+5
+test accuracy 0.322601
+8
+test accuracy 0.316008
+11
+test accuracy 0.295565
+14
+test accuracy 0.297439
+17
+test accuracy 0.297786
+20
+test accuracy 0.296179
+23
+test accuracy 0.292405
+26
+test accuracy 0.293611
+29
+test accuracy 0.293405
+32
+test accuracy 0.293067
+35
+test accuracy 0.294435
+38
+test accuracy 0.290185
+41
+test accuracy 0.293858
+2
+test accuracy 0.6793
+5
+test accuracy 0.655826
+8
+test accuracy 0.638599
+11
+test accuracy 0.633425
+14
+test accuracy 0.625767
+17
+test accuracy 0.623592
+2
+test accuracy 0.663422
+5
+test accuracy 0.636015
+8
+test accuracy 0.618493
+11
+test accuracy 0.602665
+14
+test accuracy 0.592248
+17
+test accuracy 0.585573
+20
+test accuracy 0.577584
+23
+test accuracy 0.575448
+26
+test accuracy 0.570269
+29
+test accuracy 0.569457
+32
+test accuracy 0.563491
+35
+test accuracy 0.562546
+38
+test accuracy 0.556241
+41
+test accuracy 0.5571
+44
+test accuracy 0.556917
+47
+test accuracy 0.554863
+50
+test accuracy 0.553281
+53
+test accuracy 0.553973
+56
+test accuracy 0.550092
+59
+test accuracy 0.55104
+62
+test accuracy 0.553402
+65
+test accuracy 0.550333
+68
+test accuracy 0.547137
+71
+test accuracy 0.554561
+74
+test accuracy 0.551798
+77
+test accuracy 0.548803
+80
+test accuracy 0.555204
+83
+test accuracy 0.552215
+86
+test accuracy 0.552873
+89
+test accuracy 0.552653
+92
+test accuracy 0.557161
+95
+test accuracy 0.55703
+98
+test accuracy 0.561869
+101
+test accuracy 0.558103
+104
+test accuracy 0.560282
+2
+test accuracy 0.786409
+5
+test accuracy 0.75403
+8
+test accuracy 0.712713
+11
+test accuracy 0.675417
+14
+test accuracy 0.67199
+17
+test accuracy 0.660119
+20
+test accuracy 0.655086
+23
+test accuracy 0.652021
+26
+test accuracy 0.648158
+29
+test accuracy 0.645935
+32
+test accuracy 0.641088
+35
+test accuracy 0.63938
+38
+test accuracy 0.647424
+41
+test accuracy 0.633386
+44
+test accuracy 0.672239
+47
+test accuracy 0.632044
+50
+test accuracy 0.627091
+53
+test accuracy 0.626342
+56
+test accuracy 0.629013
+59
+test accuracy 0.638091
+62
+test accuracy 0.634366
+65
+test accuracy 0.636624
+68
+test accuracy 0.626665
+71
+test accuracy 0.634366
+74
+test accuracy 0.631924
+77
+test accuracy 0.634649
+80
+test accuracy 0.631354
+83
+test accuracy 0.630083
+86
+test accuracy 0.623186
+89
+test accuracy 0.628907
+92
+test accuracy 0.628212
+95
+test accuracy 0.630065
+98
+test accuracy 0.628288
+101
+test accuracy 0.63178
+104
+test accuracy 0.630441
+2
+test accuracy 0.85744
+5
+test accuracy 0.824001
+8
+test accuracy 0.81069
+11
+test accuracy 0.791086
+14
+test accuracy 0.780829
+17
+test accuracy 0.752042
+20
+test accuracy 0.750813
+23
+test accuracy 0.728073
+26
+test accuracy 0.726901
+29
+test accuracy 0.713117
+32
+test accuracy 0.694242
+35
+test accuracy 0.687469
+38
+test accuracy 0.689337
+41
+test accuracy 0.682816
+44
+test accuracy 0.684814
+47
+test accuracy 0.700337
+50
+test accuracy 0.664973
+53
+test accuracy 0.675479
+56
+test accuracy 0.670786
+59
+test accuracy 0.681837
+62
+test accuracy 0.675679
+65
+test accuracy 0.67252
+68
+test accuracy 0.670193
+71
+test accuracy 0.671459
+74
+test accuracy 0.676907
+77
+test accuracy 0.662452
+80
+test accuracy 0.663049
+83
+test accuracy 0.666864
+2
+test accuracy 0.78126
+5
+test accuracy 0.76229
+8
+test accuracy 0.741434
+11
+test accuracy 0.749948
+14
+test accuracy 0.738219
+17
+test accuracy 0.727714
+20
+test accuracy 0.727814
+23
+test accuracy 0.729779
+26
+test accuracy 0.722266
+29
+test accuracy 0.744148
+32
+test accuracy 0.732487
+35
+test accuracy 0.729291
+38
+test accuracy 0.741786
+41
+test accuracy 0.730006
+44
+test accuracy 0.735844
+47
+test accuracy 0.737822
+50
+test accuracy 0.728519
+53
+test accuracy 0.740632
+56
+test accuracy 0.738767
+59
+test accuracy 0.73197
+62
+test accuracy 0.729194
+65
+test accuracy 0.734429
+68
+test accuracy 0.722887
+71
+test accuracy 0.727066
+74
+test accuracy 0.726828
+77
+test accuracy 0.748226
+80
+test accuracy 0.731717
+83
+test accuracy 0.74256
+86
+test accuracy 0.741217
+89
+test accuracy 0.737501
+92
+test accuracy 0.743415
+95
+test accuracy 0.75319
+98
+test accuracy 0.736536
+101
+test accuracy 0.760627
+104
+test accuracy 0.748571
+107
+test accuracy 0.72705
+110
+test accuracy 0.71703
+113
+test accuracy 0.723942
+116
+test accuracy 0.725493
+119
+test accuracy 0.726107
+122
+test accuracy 0.733801
+125
+test accuracy 0.741268
+128
+test accuracy 0.742718
+131
+test accuracy 0.73614
+134
+test accuracy 0.741708
+137
+test accuracy 0.741394
+140
+test accuracy 0.749884
+143
+test accuracy 0.740854
+146
+test accuracy 0.742762
+149
+test accuracy 0.738422
+152
+test accuracy 0.733841
+155
+test accuracy 0.74257
+158
+test accuracy 0.740666
+161
+test accuracy 0.733296
+164
+test accuracy 0.735842
+167
+test accuracy 0.737836
+170
+test accuracy 0.742324
+173
+test accuracy 0.748685
+176
+test accuracy 0.745724
+179
+test accuracy 0.738886
+182
+test accuracy 0.738211
+185
+test accuracy 0.747273
+188
+test accuracy 0.736134
+191
+test accuracy 0.745896
+194
+test accuracy 0.745005
+197
+test accuracy 0.745531
+200
+test accuracy 0.753953
+203
+test accuracy 0.749702
+206
+test accuracy 0.751722
+209
+test accuracy 0.747677
+212
+test accuracy 0.753579
+215
+test accuracy 0.742801
+218
+test accuracy 0.750315
+221
+test accuracy 0.755651
+224
+test accuracy 0.741535
+227
+test accuracy 0.762584
+230
+test accuracy 0.737728
+233
+test accuracy 0.752933
+236
+test accuracy 0.744619
+239
+test accuracy 0.736248
+242
+test accuracy 0.735929
+245
+test accuracy 0.742967
+248
+test accuracy 0.742529
+251
+test accuracy 0.748773
+254
+test accuracy 0.754543
+257
+test accuracy 0.748622
+260
+test accuracy 0.749929
+263
+test accuracy 0.760612
+266
+test accuracy 0.746212
+269
+test accuracy 0.754338
+272
+test accuracy 0.754158
+275
+test accuracy 0.762694
+278
+test accuracy 0.761798
+281
+test accuracy 0.76039
+284
+test accuracy 0.76261
+287
+test accuracy 0.768381
+290
+test accuracy 0.761876
+293
+test accuracy 0.768586
+296
+test accuracy 0.754239
+299
+test accuracy 0.776875
+299
+validation accuracy 0.502151
+2
+test accuracy 0.093542
+5
+test accuracy 0.0870232
+8
+test accuracy 0.0850132
+11
+test accuracy 0.0844352
+14
+test accuracy 0.0126129
+17
+test accuracy 0.0116779
+20
+test accuracy 0.0112554
+23
+test accuracy 0.0106235
+26
+test accuracy 0.0100283
+29
+test accuracy 0.00950288
+32
+test accuracy 0.00914202
+35
+test accuracy 0.00909632
+38
+test accuracy 0.00926348
+41
+test accuracy 0.00923526
+44
+test accuracy 0.00899891
+47
+test accuracy 0.00880039
+50
+test accuracy 0.00881375
+53
+test accuracy 0.00892887
+56
+test accuracy 0.00885715
+59
+test accuracy 0.00871271
+62
+test accuracy 0.00860715
+65
+test accuracy 0.00880358
+68
+test accuracy 0.00867741
+71
+test accuracy 0.00906655
+74
+test accuracy 0.0087583
+2
+test accuracy 0.81302
+5
+test accuracy 0.70414
+8
+test accuracy 0.687737
+11
+test accuracy 0.666222
+14
+test accuracy 0.646215
+17
+test accuracy 0.635647
+20
+test accuracy 0.630808
+23
+test accuracy 0.648688
+26
+test accuracy 0.627067
+29
+test accuracy 0.612577
+32
+test accuracy 0.600405
+35
+test accuracy 0.620952
+38
+test accuracy 0.607205
+41
+test accuracy 0.607811
+44
+test accuracy 0.607481
+47
+test accuracy 0.605081
+50
+test accuracy 0.602984
+2
+test accuracy 0.0379486
+5
+test accuracy 0.0337072
+8
+test accuracy 0.0282392
+11
+test accuracy 0.027117
+14
+test accuracy 0.0266784
+17
+test accuracy 0.026008
+20
+test accuracy 0.0258269
+23
+test accuracy 0.0258716
+26
+test accuracy 0.0254227
+29
+test accuracy 0.0254325
+32
+test accuracy 0.0250456
+35
+test accuracy 0.0249739
+38
+test accuracy 0.0249534
+41
+test accuracy 0.0251429
+44
+test accuracy 0.0248293
+47
+test accuracy 0.0244741
+50
+test accuracy 0.0246769
+53
+test accuracy 0.0235551
+2
+test accuracy 0.813181
+5
+test accuracy 0.745509
+8
+test accuracy 0.728054
+11
+test accuracy 0.691975
+14
+test accuracy 0.686565
+17
+test accuracy 0.674698
+20
+test accuracy 0.655936
+23
+test accuracy 0.653637
+26
+test accuracy 0.650631
+29
+test accuracy 0.651548
+32
+test accuracy 0.657254
+35
+test accuracy 0.648579
+38
+test accuracy 0.642503
+41
+test accuracy 0.639183
+44
+test accuracy 0.636814
+47
+test accuracy 0.637256
+50
+test accuracy 0.635339
+53
+test accuracy 0.641833
+56
+test accuracy 0.635057
+59
+test accuracy 0.638316
+62
+test accuracy 0.634863
+65
+test accuracy 0.631946
+68
+test accuracy 0.636938
+71
+test accuracy 0.634718
+74
+test accuracy 0.636864
+77
+test accuracy 0.637888
+80
+test accuracy 0.635857
+83
+test accuracy 0.632385
+86
+test accuracy 0.629436
+89
+test accuracy 0.63016
+92
+test accuracy 0.634075
+95
+test accuracy 0.629521
+98
+test accuracy 0.6313
+101
+test accuracy 0.636508
+104
+test accuracy 0.630838
+107
+test accuracy 0.63141
+110
+test accuracy 0.625251
+113
+test accuracy 0.631842
+116
+test accuracy 0.626553
+119
+test accuracy 0.627376
+122
+test accuracy 0.626274
+125
+test accuracy 0.627942
+128
+test accuracy 0.629846
+131
+test accuracy 0.619817
+134
+test accuracy 0.614639
+137
+test accuracy 0.616467
+140
+test accuracy 0.621727
+143
+test accuracy 0.621861
+146
+test accuracy 0.615758
+149
+test accuracy 0.620801
+152
+test accuracy 0.619563
+155
+test accuracy 0.613164
+158
+test accuracy 0.658545
+161
+test accuracy 0.644838
+164
+test accuracy 0.639932
+167
+test accuracy 0.635018
+170
+test accuracy 0.634691
+173
+test accuracy 0.634075
+176
+test accuracy 0.635416
+179
+test accuracy 0.635287
+182
+test accuracy 0.635263
+185
+test accuracy 0.636279
+188
+test accuracy 0.635768
+191
+test accuracy 0.637721
+194
+test accuracy 0.636309
+197
+test accuracy 0.641968
+200
+test accuracy 0.638758
+203
+test accuracy 0.63997
+206
+test accuracy 0.638869
+209
+test accuracy 0.641834
+212
+test accuracy 0.64178
+215
+test accuracy 0.642721
+218
+test accuracy 0.640556
+221
+test accuracy 0.644507
+224
+test accuracy 0.643036
+227
+test accuracy 0.644027
+230
+test accuracy 0.644486
+233
+test accuracy 0.643486
+236
+test accuracy 0.641585
+239
+test accuracy 0.647337
+242
+test accuracy 0.645389
+245
+test accuracy 0.65259
+248
+test accuracy 0.640621
+251
+test accuracy 0.6447
+254
+test accuracy 0.645196
+257
+test accuracy 0.647361
+260
+test accuracy 0.653357
+263
+test accuracy 0.645611
+266
+test accuracy 0.652002
+269
+test accuracy 0.636873
+272
+test accuracy 0.632474
+275
+test accuracy 0.635351
+278
+test accuracy 0.633066
+281
+test accuracy 0.630439
+284
+test accuracy 0.62299
+287
+test accuracy 0.63004
+290
+test accuracy 0.625545
+293
+test accuracy 0.619914
+296
+test accuracy 0.619535
+299
+test accuracy 0.620419
+299
+validation accuracy 0.441566
+2
+test accuracy 0.327113
+5
+test accuracy 0.25583
+8
+test accuracy 0.216235
+11
+test accuracy 0.187638
+14
+test accuracy 0.176791
+17
+test accuracy 0.172052
+20
+test accuracy 0.1687
+23
+test accuracy 0.165856
+26
+test accuracy 0.164373
+29
+test accuracy 0.162816
+32
+test accuracy 0.159067
+35
+test accuracy 0.16095
+38
+test accuracy 0.15963
+41
+test accuracy 0.158694
+44
+test accuracy 0.157049
+47
+test accuracy 0.15633
+50
+test accuracy 0.155722
+53
+test accuracy 0.154132
+56
+test accuracy 0.154135
+59
+test accuracy 0.154245
+62
+test accuracy 0.153273
+65
+test accuracy 0.153134
+68
+test accuracy 0.154168
+71
+test accuracy 0.153478
+74
+test accuracy 0.152856
+77
+test accuracy 0.14918
+80
+test accuracy 0.149221
+83
+test accuracy 0.147772
+86
+test accuracy 0.150041
+89
+test accuracy 0.148413
+92
+test accuracy 0.14776
+95
+test accuracy 0.146649
+98
+test accuracy 0.146956
+101
+test accuracy 0.147266
+104
+test accuracy 0.145664
+107
+test accuracy 0.146584
+110
+test accuracy 0.148733
+113
+test accuracy 0.147428
+116
+test accuracy 0.150249
+119
+test accuracy 0.148728
+122
+test accuracy 0.14965
+125
+test accuracy 0.150824
+128
+test accuracy 0.152454
+131
+test accuracy 0.151123
+134
+test accuracy 0.152212
+137
+test accuracy 0.150143
+140
+test accuracy 0.151243
+143
+test accuracy 0.154645
+146
+test accuracy 0.151756
+149
+test accuracy 0.15296
+152
+test accuracy 0.153601
+155
+test accuracy 0.152561
+158
+test accuracy 0.153799
+161
+test accuracy 0.154575
+164
+test accuracy 0.153436
+167
+test accuracy 0.154649
+170
+test accuracy 0.156862
+173
+test accuracy 0.157773
+176
+test accuracy 0.157117
+179
+test accuracy 0.156521
+182
+test accuracy 0.16041
+185
+test accuracy 0.158154
+188
+test accuracy 0.160102
+191
+test accuracy 0.158516
+194
+test accuracy 0.16019
+197
+test accuracy 0.161073
+200
+test accuracy 0.159302
+203
+test accuracy 0.159163
+206
+test accuracy 0.162041
+209
+test accuracy 0.159813
+212
+test accuracy 0.162673
+215
+test accuracy 0.16311
+218
+test accuracy 0.162658
+221
+test accuracy 0.162915
+224
+test accuracy 0.16441
+227
+test accuracy 0.163164
+230
+test accuracy 0.164413
+233
+test accuracy 0.163804
+236
+test accuracy 0.164657
+239
+test accuracy 0.167323
+242
+test accuracy 0.166724
+245
+test accuracy 0.164805
+248
+test accuracy 0.168139
+251
+test accuracy 0.165524
+254
+test accuracy 0.166354
+257
+test accuracy 0.166929
+260
+test accuracy 0.167299
+263
+test accuracy 0.167118
+266
+test accuracy 0.166446
+269
+test accuracy 0.16733
+272
+test accuracy 0.164841
+275
+test accuracy 0.163378
+278
+test accuracy 0.166133
+281
+test accuracy 0.165429
+284
+test accuracy 0.168648
+287
+test accuracy 0.166206
+290
+test accuracy 0.165476
+293
+test accuracy 0.165095
+296
+test accuracy 0.166624
+299
+test accuracy 0.165085
+299
+validation accuracy 0.114326
+2
+test accuracy 0.673993
+5
+test accuracy 0.643014
+8
+test accuracy 0.631077
+11
+test accuracy 0.615509
+14
+test accuracy 0.603878
+17
+test accuracy 0.600376
+20
+test accuracy 0.596004
+23
+test accuracy 0.589471
+26
+test accuracy 0.58608
+29
+test accuracy 0.586366
+32
+test accuracy 0.578056
+35
+test accuracy 0.576313
+38
+test accuracy 0.577851
+41
+test accuracy 0.574434
+44
+test accuracy 0.575237
+47
+test accuracy 0.574076
+50
+test accuracy 0.572012
+53
+test accuracy 0.568924
+56
+test accuracy 0.572949
+59
+test accuracy 0.573728
+62
+test accuracy 0.571138
+65
+test accuracy 0.57059
+68
+test accuracy 0.571548
+71
+test accuracy 0.575093
+74
+test accuracy 0.575824
+77
+test accuracy 0.575329
+80
+test accuracy 0.573268
+83
+test accuracy 0.57963
+86
+test accuracy 0.577503
+89
+test accuracy 0.578493
+92
+test accuracy 0.580892
+95
+test accuracy 0.586196
+98
+test accuracy 0.584024
+101
+test accuracy 0.583288
+104
+test accuracy 0.584065
+107
+test accuracy 0.590122
+110
+test accuracy 0.587144
+113
+test accuracy 0.588597
+116
+test accuracy 0.589392
+119
+test accuracy 0.587463
+122
+test accuracy 0.587033
+125
+test accuracy 0.591665
+128
+test accuracy 0.597804
+131
+test accuracy 0.596605
+134
+test accuracy 0.59686
+137
+test accuracy 0.594435
+140
+test accuracy 0.593864
+143
+test accuracy 0.5963
+146
+test accuracy 0.5965
+149
+test accuracy 0.598002
+152
+test accuracy 0.597516
+155
+test accuracy 0.597585
+158
+test accuracy 0.601034
+161
+test accuracy 0.600741
+164
+test accuracy 0.602175
+167
+test accuracy 0.601906
+170
+test accuracy 0.60466
+173
+test accuracy 0.601507
+176
+test accuracy 0.601707
+179
+test accuracy 0.606766
+182
+test accuracy 0.607696
+185
+test accuracy 0.615106
+188
+test accuracy 0.606945
+191
+test accuracy 0.609118
+194
+test accuracy 0.609137
+197
+test accuracy 0.613556
+200
+test accuracy 0.611992
+203
+test accuracy 0.611035
+206
+test accuracy 0.616224
+209
+test accuracy 0.61681
+212
+test accuracy 0.619536
+215
+test accuracy 0.613036
+218
+test accuracy 0.614346
+221
+test accuracy 0.62024
+224
+test accuracy 0.618917
+227
+test accuracy 0.619808
+230
+test accuracy 0.622081
+233
+test accuracy 0.624321
+236
+test accuracy 0.623563
+239
+test accuracy 0.6203
+242
+test accuracy 0.628433
+2
+test accuracy 0.298378
+5
+test accuracy 0.0298045
+8
+test accuracy 0.0265481
+11
+test accuracy 0.0137982
+14
+test accuracy 0.0128322
+17
+test accuracy 0.012475
+20
+test accuracy 0.0122273
+23
+test accuracy 0.0120357
+26
+test accuracy 0.0118574
+29
+test accuracy 0.0116565
+32
+test accuracy 0.0119718
+35
+test accuracy 0.0116276
+38
+test accuracy 0.0112297
+41
+test accuracy 0.0112865
+44
+test accuracy 0.0110297
+47
+test accuracy 0.0114365
+50
+test accuracy 0.0111401
+53
+test accuracy 0.0113086
+56
+test accuracy 0.0111971
+59
+test accuracy 0.0109704
+62
+test accuracy 0.0108794
+65
+test accuracy 0.0112083
+68
+test accuracy 0.0109213
+71
+test accuracy 0.0107376
+74
+test accuracy 0.0109472
+77
+test accuracy 0.0103615
+80
+test accuracy 0.0108325
+83
+test accuracy 0.0108064
+86
+test accuracy 0.0107625
+89
+test accuracy 0.0107251
+92
+test accuracy 0.0106935
+95
+test accuracy 0.0106864
+98
+test accuracy 0.0108052
+101
+test accuracy 0.0106784
+104
+test accuracy 0.0106871
+107
+test accuracy 0.0108142
+110
+test accuracy 0.010723
+113
+test accuracy 0.0105954
+116
+test accuracy 0.0106966
+119
+test accuracy 0.0108374
+122
+test accuracy 0.0106469
+125
+test accuracy 0.0108105
+128
+test accuracy 0.0108888
+131
+test accuracy 0.0104484
+134
+test accuracy 0.0107572
+137
+test accuracy 0.0107895
+140
+test accuracy 0.01089
+143
+test accuracy 0.0107528
+146
+test accuracy 0.0108041
+149
+test accuracy 0.0107888
+152
+test accuracy 0.0107265
+155
+test accuracy 0.0108559
+158
+test accuracy 0.0111168
+161
+test accuracy 0.010901
+2
+test accuracy 0.280308
+5
+test accuracy 0.227537
+8
+test accuracy 0.203648
+11
+test accuracy 0.197634
+14
+test accuracy 0.191928
+17
+test accuracy 0.187264
+20
+test accuracy 0.185314
+23
+test accuracy 0.177735
+26
+test accuracy 0.173914
+29
+test accuracy 0.171386
+32
+test accuracy 0.16732
+35
+test accuracy 0.16482
+38
+test accuracy 0.166382
+41
+test accuracy 0.163646
+44
+test accuracy 0.161487
+47
+test accuracy 0.16155
+50
+test accuracy 0.161742
+53
+test accuracy 0.160969
+2
+test accuracy 0.781218
+5
+test accuracy 0.718634
+8
+test accuracy 0.694862
+11
+test accuracy 0.683556
+14
+test accuracy 0.670135
+17
+test accuracy 0.655835
+20
+test accuracy 0.653785
+23
+test accuracy 0.64245
+26
+test accuracy 0.627559
+29
+test accuracy 0.629128
+32
+test accuracy 0.62466
+35
+test accuracy 0.616149
+38
+test accuracy 0.609929
+41
+test accuracy 0.608047
+44
+test accuracy 0.617906
+47
+test accuracy 0.591239
+50
+test accuracy 0.591234
+53
+test accuracy 0.593503
+56
+test accuracy 0.599487
+59
+test accuracy 0.585394
+62
+test accuracy 0.579063
+65
+test accuracy 0.583535
+68
+test accuracy 0.576316
+71
+test accuracy 0.585789
+2
+test accuracy 0.0264015
+5
+test accuracy 0.0142454
+8
+test accuracy 0.0116343
+11
+test accuracy 0.0105813
+14
+test accuracy 0.0102111
+17
+test accuracy 0.00992131
+20
+test accuracy 0.00941726
+23
+test accuracy 0.00886404
+26
+test accuracy 0.00877683
+29
+test accuracy 0.00848969
+32
+test accuracy 0.0084161
+35
+test accuracy 0.00808712
+38
+test accuracy 0.00801427
+41
+test accuracy 0.008132
+44
+test accuracy 0.00803618
+47
+test accuracy 0.0079341
+50
+test accuracy 0.00789719
+53
+test accuracy 0.00786903
+56
+test accuracy 0.00773377
+59
+test accuracy 0.00779826
+62
+test accuracy 0.00798065
+65
+test accuracy 0.00780854
+68
+test accuracy 0.00788333
+71
+test accuracy 0.00771165
+74
+test accuracy 0.00788502
+77
+test accuracy 0.00776577
+80
+test accuracy 0.00777517
+2
+test accuracy 0.691547
+5
+test accuracy 0.665815
+8
+test accuracy 0.649216
+11
+test accuracy 0.633917
+14
+test accuracy 0.622082
+17
+test accuracy 0.619746
+20
+test accuracy 0.613397
+23
+test accuracy 0.614637
+26
+test accuracy 0.609377
+2
+test accuracy 0.0241395
+5
+test accuracy 0.0165891
+8
+test accuracy 0.0149796
+11
+test accuracy 0.0140401
+14
+test accuracy 0.0140015
+17
+test accuracy 0.0136603
+20
+test accuracy 0.0134688
+23
+test accuracy 0.0130203
+26
+test accuracy 0.0116874
+29
+test accuracy 0.0115532
+32
+test accuracy 0.0112629
+35
+test accuracy 0.010939
+38
+test accuracy 0.0110598
+41
+test accuracy 0.0110158
+44
+test accuracy 0.0108973
+47
+test accuracy 0.0108997
+50
+test accuracy 0.0109179
+53
+test accuracy 0.0108085
+56
+test accuracy 0.0109828
+59
+test accuracy 0.0110495
+62
+test accuracy 0.0106411
+65
+test accuracy 0.0110078
+68
+test accuracy 0.0107553
+71
+test accuracy 0.0107229
+74
+test accuracy 0.0106945
+77
+test accuracy 0.0108192
+80
+test accuracy 0.0106303
+83
+test accuracy 0.0106766
+86
+test accuracy 0.0100936
+89
+test accuracy 0.0101024
+92
+test accuracy 0.00961004
+95
+test accuracy 0.00947366
+98
+test accuracy 0.00910946
+101
+test accuracy 0.00929482
+104
+test accuracy 0.0092092
+107
+test accuracy 0.00901503
+110
+test accuracy 0.00920887
+113
+test accuracy 0.00898069
+116
+test accuracy 0.00909707
+119
+test accuracy 0.00905765
+122
+test accuracy 0.00899246
+125
+test accuracy 0.00884262
+128
+test accuracy 0.00895016
+131
+test accuracy 0.00900735
+134
+test accuracy 0.00884323
+137
+test accuracy 0.00909853
+140
+test accuracy 0.00885031
+143
+test accuracy 0.00890606
+146
+test accuracy 0.00897198
+149
+test accuracy 0.0089389
+152
+test accuracy 0.00894009
+155
+test accuracy 0.008967
+158
+test accuracy 0.00889691
+161
+test accuracy 0.00878731
+164
+test accuracy 0.00905387
+167
+test accuracy 0.00885521
+170
+test accuracy 0.00884752
+173
+test accuracy 0.00891641
+176
+test accuracy 0.00887419
+179
+test accuracy 0.00881087
+182
+test accuracy 0.00914416
+185
+test accuracy 0.00878834
+188
+test accuracy 0.00876107
+191
+test accuracy 0.0088607
+194
+test accuracy 0.00899769
+197
+test accuracy 0.00877002
+200
+test accuracy 0.00872763
+203
+test accuracy 0.00874977
+206
+test accuracy 0.00862978
+209
+test accuracy 0.00874192
+212
+test accuracy 0.00890334
+215
+test accuracy 0.00889225
+218
+test accuracy 0.00881599
+221
+test accuracy 0.00864999
+224
+test accuracy 0.00889781
+227
+test accuracy 0.00892501
+230
+test accuracy 0.00865856
+233
+test accuracy 0.00860536
+236
+test accuracy 0.00881942
+2
+test accuracy 0.386666
+5
+test accuracy 0.264071
+8
+test accuracy 0.217189
+11
+test accuracy 0.177221
+14
+test accuracy 0.16103
+17
+test accuracy 0.155877
+20
+test accuracy 0.149528
+23
+test accuracy 0.148561
+26
+test accuracy 0.146398
+29
+test accuracy 0.145871
+32
+test accuracy 0.14495
+35
+test accuracy 0.141214
+38
+test accuracy 0.140958
+41
+test accuracy 0.141685
+44
+test accuracy 0.140995
+47
+test accuracy 0.138964
+50
+test accuracy 0.139339
+53
+test accuracy 0.138844
+56
+test accuracy 0.139302
+59
+test accuracy 0.140354
+62
+test accuracy 0.139676
+65
+test accuracy 0.138772
+68
+test accuracy 0.138357
+71
+test accuracy 0.137806
+74
+test accuracy 0.137492
+77
+test accuracy 0.138137
+80
+test accuracy 0.137826
+83
+test accuracy 0.138076
+86
+test accuracy 0.137309
+89
+test accuracy 0.137374
+92
+test accuracy 0.138727
+95
+test accuracy 0.139513
+98
+test accuracy 0.139015
+101
+test accuracy 0.136408
+104
+test accuracy 0.139488
+107
+test accuracy 0.140233
+110
+test accuracy 0.137601
+113
+test accuracy 0.138607
+116
+test accuracy 0.137522
+119
+test accuracy 0.139241
+122
+test accuracy 0.139608
+125
+test accuracy 0.140114
+128
+test accuracy 0.140939
+131
+test accuracy 0.140455
+134
+test accuracy 0.138196
+137
+test accuracy 0.140147
+140
+test accuracy 0.139563
+143
+test accuracy 0.14044
+146
+test accuracy 0.139591
+149
+test accuracy 0.139979
+152
+test accuracy 0.140545
+155
+test accuracy 0.14205
+158
+test accuracy 0.142488
+161
+test accuracy 0.140864
+164
+test accuracy 0.14173
+167
+test accuracy 0.141146
+170
+test accuracy 0.141707
+173
+test accuracy 0.141868
+176
+test accuracy 0.143033
+179
+test accuracy 0.142273
+182
+test accuracy 0.141484
+185
+test accuracy 0.143586
+188
+test accuracy 0.143332
+191
+test accuracy 0.143587
+194
+test accuracy 0.145304
+197
+test accuracy 0.145403
+200
+test accuracy 0.147041
+203
+test accuracy 0.144522
+206
+test accuracy 0.145508
+209
+test accuracy 0.14513
+212
+test accuracy 0.146564
+215
+test accuracy 0.14653
+218
+test accuracy 0.145711
+221
+test accuracy 0.145077
+224
+test accuracy 0.1458
+227
+test accuracy 0.14546
+230
+test accuracy 0.148344
+233
+test accuracy 0.146104
+236
+test accuracy 0.147581
+239
+test accuracy 0.146667
+242
+test accuracy 0.148449
+245
+test accuracy 0.148283
+248
+test accuracy 0.148624
+251
+test accuracy 0.146565
+254
+test accuracy 0.147134
+257
+test accuracy 0.148652
+260
+test accuracy 0.147235
+263
+test accuracy 0.147653
+266
+test accuracy 0.147754
+269
+test accuracy 0.147085
+272
+test accuracy 0.147874
+275
+test accuracy 0.148862
+278
+test accuracy 0.148534
+281
+test accuracy 0.147803
+284
+test accuracy 0.147091
+287
+test accuracy 0.1486
+290
+test accuracy 0.14852
+293
+test accuracy 0.149713
+296
+test accuracy 0.147622
+299
+test accuracy 0.149155
+299
+validation accuracy 0.0961088
+2
+test accuracy 0.0276366
+5
+test accuracy 0.0185693
+8
+test accuracy 0.0140014
+11
+test accuracy 0.0127783
+14
+test accuracy 0.01222
+17
+test accuracy 0.0116677
+20
+test accuracy 0.011524
+23
+test accuracy 0.0113143
+26
+test accuracy 0.0112036
+29
+test accuracy 0.0111104
+32
+test accuracy 0.0111778
+35
+test accuracy 0.0109597
+38
+test accuracy 0.0107543
+41
+test accuracy 0.0105938
+44
+test accuracy 0.0105644
+47
+test accuracy 0.0102658
+50
+test accuracy 0.0102023
+53
+test accuracy 0.0102052
+56
+test accuracy 0.0102561
+59
+test accuracy 0.0103152
+62
+test accuracy 0.0100476
+65
+test accuracy 0.0103608
+68
+test accuracy 0.0102845
+71
+test accuracy 0.00976185
+74
+test accuracy 0.0100099
+2
+test accuracy 0.795729
+5
+test accuracy 0.758564
+8
+test accuracy 0.710699
+11
+test accuracy 0.651006
+14
+test accuracy 0.636353
+17
+test accuracy 0.625988
+20
+test accuracy 0.622733
+23
+test accuracy 0.627319
+26
+test accuracy 0.635561
+29
+test accuracy 0.635221
+32
+test accuracy 0.628099
+35
+test accuracy 0.640917
+38
+test accuracy 0.637907
+41
+test accuracy 0.628017
+44
+test accuracy 0.624424
+47
+test accuracy 0.622443
+50
+test accuracy 0.625074
+53
+test accuracy 0.624576
+56
+test accuracy 0.618305
+59
+test accuracy 0.620098
+62
+test accuracy 0.626245
+65
+test accuracy 0.618714
+2
+test accuracy 0.699822
+5
+test accuracy 0.692366
+8
+test accuracy 0.676466
+11
+test accuracy 0.671132
+14
+test accuracy 0.665052
+17
+test accuracy 0.662647
+20
+test accuracy 0.659086
+23
+test accuracy 0.652449
+26
+test accuracy 0.642365
+29
+test accuracy 0.632065
+32
+test accuracy 0.630687
+35
+test accuracy 0.625575
+38
+test accuracy 0.621426
+41
+test accuracy 0.614169
+2
+test accuracy 0.675298
+5
+test accuracy 0.641658
+8
+test accuracy 0.62996
+11
+test accuracy 0.61387
+14
+test accuracy 0.599003
+17
+test accuracy 0.597433
+20
+test accuracy 0.598541
+23
+test accuracy 0.591797
+26
+test accuracy 0.589645
+29
+test accuracy 0.587372
+32
+test accuracy 0.584635
+35
+test accuracy 0.583398
+38
+test accuracy 0.580878
+41
+test accuracy 0.582905
+44
+test accuracy 0.580732
+47
+test accuracy 0.578979
+50
+test accuracy 0.582214
+53
+test accuracy 0.584141
+56
+test accuracy 0.584338
+59
+test accuracy 0.584613
+62
+test accuracy 0.584703
+65
+test accuracy 0.586331
+68
+test accuracy 0.590583
+71
+test accuracy 0.592598
+74
+test accuracy 0.591193
+77
+test accuracy 0.594919
+80
+test accuracy 0.597686
+83
+test accuracy 0.595332
+86
+test accuracy 0.59745
+89
+test accuracy 0.59886
+92
+test accuracy 0.603102
+95
+test accuracy 0.600645
+98
+test accuracy 0.604278
+101
+test accuracy 0.60499
+104
+test accuracy 0.604486
+107
+test accuracy 0.606976
+2
+test accuracy nan
+5
+test accuracy nan
+8
+test accuracy nan
+11
+test accuracy nan
+14
+test accuracy nan
+17
+test accuracy nan
+2
+test accuracy nan
+5
+test accuracy nan
+8
+test accuracy nan
+11
+test accuracy nan
+14
+test accuracy nan
+17
+test accuracy nan
+20
+test accuracy nan
+23
+test accuracy nan
+26
+test accuracy nan
+29
+test accuracy nan
+32
+test accuracy nan
+35
+test accuracy nan
+38
+test accuracy nan
+41
+test accuracy nan
+44
+test accuracy nan
+47
+test accuracy nan
+50
+test accuracy nan
+53
+test accuracy nan
+56
+test accuracy nan
+59
+test accuracy nan
+62
+test accuracy nan
+65
+test accuracy nan
+68
+test accuracy nan
+71
+test accuracy nan
+74
+test accuracy nan
+77
+test accuracy nan
+80
+test accuracy nan
+83
+test accuracy nan
+86
+test accuracy nan
+89
+test accuracy nan
+92
+test accuracy nan
+95
+test accuracy nan
+98
+test accuracy nan
+101
+test accuracy nan
+104
+test accuracy nan
+107
+test accuracy nan
+110
+test accuracy nan
+113
+test accuracy nan
+116
+test accuracy nan
+119
+test accuracy nan
+122
+test accuracy nan
+125
+test accuracy nan
+128
+test accuracy nan
+131
+test accuracy nan
+134
+test accuracy nan
+137
+test accuracy nan
+140
+test accuracy nan
+143
+test accuracy nan
+146
+test accuracy nan
+149
+test accuracy nan
+152
+test accuracy nan
+155
+test accuracy nan
+158
+test accuracy nan
+161
+test accuracy nan
+164
+test accuracy nan
+167
+test accuracy nan
+170
+test accuracy nan
+173
+test accuracy nan
+176
+test accuracy nan
+179
+test accuracy nan
+182
+test accuracy nan
+185
+test accuracy nan
+188
+test accuracy nan
+191
+test accuracy nan
+194
+test accuracy nan
+197
+test accuracy nan
+200
+test accuracy nan
+203
+test accuracy nan
+206
+test accuracy nan
+209
+test accuracy nan
+212
+test accuracy nan
+215
+test accuracy nan
+218
+test accuracy nan
+221
+test accuracy nan
+224
+test accuracy nan
+227
+test accuracy nan
+230
+test accuracy nan
+233
+test accuracy nan
+236
+test accuracy nan
+239
+test accuracy nan
+242
+test accuracy nan
+245
+test accuracy nan
+248
+test accuracy nan
+251
+test accuracy nan
+254
+test accuracy nan
+257
+test accuracy nan
+260
+test accuracy nan
+263
+test accuracy nan
+266
+test accuracy nan
+269
+test accuracy nan
+272
+test accuracy nan
+275
+test accuracy nan
+278
+test accuracy nan
+281
+test accuracy nan
+284
+test accuracy nan
+287
+test accuracy nan
+290
+test accuracy nan
+293
+test accuracy nan
+296
+test accuracy nan
+299
+test accuracy nan
+299
+validation accuracy nan
+2
+test accuracy 0.69641
+5
+test accuracy 0.686182
+8
+test accuracy 0.670696
+11
+test accuracy 0.658566
+14
+test accuracy 0.653159
+17
+test accuracy 0.652398
+20
+test accuracy 0.646412
+23
+test accuracy 0.645917
+26
+test accuracy 0.646656
+29
+test accuracy 0.649279
+32
+test accuracy 0.649981
+35
+test accuracy 0.649975
+38
+test accuracy 0.650632
+41
+test accuracy 0.651263
+44
+test accuracy 0.652573
+47
+test accuracy 0.652474
+50
+test accuracy 0.65101
+53
+test accuracy 0.649469
+56
+test accuracy 0.655973
+59
+test accuracy 0.658599
+62
+test accuracy 0.657862
+65
+test accuracy 0.660521
+68
+test accuracy 0.661024
+71
+test accuracy 0.66504
+74
+test accuracy 0.66829
+77
+test accuracy 0.672001
+80
+test accuracy 0.672238
+83
+test accuracy 0.675345
+86
+test accuracy 0.671798
+89
+test accuracy 0.677227
+92
+test accuracy 0.675808
+95
+test accuracy 0.681052
+98
+test accuracy 0.681469
+101
+test accuracy 0.690095
+104
+test accuracy 0.686675
+107
+test accuracy 0.689725
+110
+test accuracy 0.690739
+113
+test accuracy 0.691834
+116
+test accuracy 0.695503
+119
+test accuracy 0.694212
+122
+test accuracy 0.700817
+125
+test accuracy 0.697866
+128
+test accuracy 0.704896
+131
+test accuracy 0.705263
+134
+test accuracy 0.70321
+137
+test accuracy 0.7023
+140
+test accuracy 0.71011
+143
+test accuracy 0.709755
+146
+test accuracy 0.711889
+149
+test accuracy 0.713141
+152
+test accuracy 0.713345
+155
+test accuracy 0.723061
+158
+test accuracy 0.718651
+161
+test accuracy 0.713265
+164
+test accuracy 0.71718
+167
+test accuracy 0.719336
+170
+test accuracy 0.722198
+173
+test accuracy 0.71996
+176
+test accuracy 0.722979
+179
+test accuracy 0.725688
+182
+test accuracy 0.721065
+185
+test accuracy 0.725916
+188
+test accuracy 0.723673
+191
+test accuracy 0.725743
+194
+test accuracy 0.73165
+197
+test accuracy 0.731599
+200
+test accuracy 0.734449
+203
+test accuracy 0.730992
+206
+test accuracy 0.729735
+209
+test accuracy 0.730113
+212
+test accuracy 0.735523
+215
+test accuracy 0.735912
+218
+test accuracy 0.734682
+221
+test accuracy 0.735089
+224
+test accuracy 0.740741
+227
+test accuracy 0.737504
+230
+test accuracy 0.740377
+233
+test accuracy 0.740239
+236
+test accuracy 0.737643
+239
+test accuracy 0.736147
+242
+test accuracy 0.745237
+245
+test accuracy 0.735151
+248
+test accuracy 0.742297
+251
+test accuracy 0.742023
+254
+test accuracy 0.74533
+257
+test accuracy 0.742781
+260
+test accuracy 0.744969
+263
+test accuracy 0.748757
+266
+test accuracy 0.748544
+269
+test accuracy 0.749106
+272
+test accuracy 0.747274
+275
+test accuracy 0.744652
+278
+test accuracy 0.750887
+281
+test accuracy 0.755328
+284
+test accuracy 0.751794
+287
+test accuracy 0.75213
+290
+test accuracy 0.750207
+293
+test accuracy 0.750963
+296
+test accuracy 0.754051
+299
+test accuracy 0.751099
+299
+validation accuracy 0.659695
+24
+test accuracy nan
+49
+test accuracy nan
+74
+test accuracy nan
+99
+test accuracy nan
+124
+test accuracy nan
+149
+test accuracy nan
+174
+test accuracy nan
+199
+test accuracy nan
+224
+test accuracy nan
+249
+test accuracy nan
+274
+test accuracy nan
+299
+test accuracy nan
+299
+validation accuracy nan
+149
+test accuracy nan
+149
+validation accuracy nan
+149
+test accuracy 0.128919
+49
+test accuracy 0.318825
+149
+test accuracy 0.137753
+49
+test accuracy 0.0164802
+49
+test accuracy 0.30695
+149
+test accuracy 0.138184
